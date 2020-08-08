@@ -1,0 +1,9 @@
+<suite name="Suite">
+<test name="MyTestRunner">
+  <classes>
+      <class name="com.actitime.timetrack.ValidLoginTest"/>
+      <class name="com.actitime.timetrack.ActiInvalidLogin"/>
+      
+    </classes>
+  </test> 
+</suite> 
