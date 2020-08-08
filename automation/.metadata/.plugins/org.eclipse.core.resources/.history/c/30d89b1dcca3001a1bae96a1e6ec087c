@@ -1,0 +1,72 @@
+package stepdefinitions;
+
+import org.junit.Assert;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+import io.github.bonigarcia.wdm.WebDriverManager;
+import pompages.ClsAmazon;
+
+public class Steps {
+	public WebDriver driver;
+	ClsAmazon obj;	
+	
+		
+	@Given("user launch chrome browser")
+	public void user_launch_chrome_browser() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new cucumber.api.PendingException();
+	}
+
+	@When("user opens url {string}")
+	public void user_opens_url(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new cucumber.api.PendingException();
+	}
+
+	@When("user click on Signin button")
+	public void user_click_on_Signin_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new cucumber.api.PendingException();
+	}
+
+	@When("user enter email as {string}")
+	public void user_enter_email_as(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new cucumber.api.PendingException();
+	}
+
+	@When("user click on continue button")
+	public void user_click_on_continue_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new cucumber.api.PendingException();
+	}
+
+	@When("user enter password as {string}")
+	public void user_enter_password_as(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new cucumber.api.PendingException();
+	}
+
+	@When("user click on Login button")
+	public void user_click_on_Login_button() {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new cucumber.api.PendingException();
+	}
+
+	@Then("Page url should be {string}")
+	public void page_url_should_be(String string) {
+	    // Write code here that turns the phrase above into concrete actions
+	    throw new cucumber.api.PendingException();
+	}
+
+
+
+}
+
+
