@@ -10,7 +10,7 @@ public class Test1 {
 	public void runTest() {
 		
 		Reporter.log("This is men module in        flipkart",true);
-	    new ChromeDriver();
+	   // new ChromeDriver();
 	}
 
 }
