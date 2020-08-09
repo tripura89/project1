@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;sample.WebElement&apos; to &apos;Navigation&apos;&#x0D;&#x0A;- Original project: &apos;automation testing&apos;&#x0D;&#x0A;- Original element: &apos;sample.WebElement&apos;&#x0D;&#x0A;- Renamed element: &apos;sample.Navigation&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;WebElement&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;sample{WebElement.java[WebElement" matchStrategy="1" name="Navigation" qualified="false" references="true" similarDeclarations="false" stamp="1584164355564" textual="false" version="1.0"/>
+</session>
